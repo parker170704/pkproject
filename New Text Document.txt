@@ -1,0 +1,12 @@
+email and name add***
+
+
+git status
+git add .
+git comit-m "first push"
+git push
+
+
+make changes....-	git status
+			git add .
+			git push
